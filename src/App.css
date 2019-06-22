@@ -1,4 +1,9 @@
-.App {
-  text-align: center;
+.person {
+  display: inline-block;
+  margin: 10px;
+  border: 1px solid #eeeeee;
+  box-shadow: 0 2px 2px #cccccc;
+  width: 200px;
+  padding: 20px;
 }
 
