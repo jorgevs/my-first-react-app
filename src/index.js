@@ -7,10 +7,10 @@ import Person from './Person/Person'
 var app = (
     <div>
         <Person name="Max" age="12"/>
-        <h1><Animal animalName="Tobby"/></h1>
+        <h1><Animal animalName="Tobby"/>guauuuu!</h1>
         <br/>
         <Person name="Didier" age="19"/>
-        <h1><Animal animalName="Buppys"/></h1>
+        <h1><Animal animalName="Buppys"/>miauuuu!</h1>
     </div>
 );
 
